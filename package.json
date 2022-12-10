@@ -25,7 +25,7 @@
     "url" : "https://github.com/paskudnyprogramista/expressjs-with-typescript-scaffold.git"
   },
   "dependencies": {
-    "express": "~4.16.1"
+    "express": "~4.17.3"
   },
   "devDependencies": {
     "@types/concurrently": "^5.2.1",
